@@ -1,3 +1,5 @@
+![Banner](https://github.com/sakshi71/sakshi.dev/blob/main/ChatGPT%20Image%20Nov%207,%202025,%2007_29_32%20PM.png?raw=true)
+
 # 👋 Hi, I'm Sakshi Agrawal  
 
 🚀 **Data Engineer | Azure | Databricks | PySpark | SQL**  
